@@ -1,5 +1,4 @@
-# Play Here: https://festive-shaw-984346.netlify.app/
-# Best played on Chrome
+# Play Here: https://festive-shaw-984346.netlify.app/   (Best played on Chrome
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
